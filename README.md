@@ -10,5 +10,5 @@
   + Chạy lệnh ``` sudo ./snort-install.sh``` để bắt đầu quá trình cài đặt snort 3 và các package bổ sung
   + Tất cả quá trình cài đặt là hoàn toàn tự động, sẽ mất khoảng 30-35 phút
   + Người dùng có thể tùy ý đặt package bổ sung bằng cách chỉnh sửa trong file **snort-install.sh**
-  Nếu thấy màn hình terminal như này, nghĩa là quá trình cài đặt hoàn tất
+Nếu thấy màn hình terminal như này, nghĩa là quá trình cài đặt hoàn tất
   ![Screenshot from 2020-08-24 20-46-42](https://user-images.githubusercontent.com/32956424/91057676-ba445000-e651-11ea-9680-fa966dfeed9f.png)
