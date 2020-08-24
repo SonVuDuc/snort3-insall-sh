@@ -12,4 +12,5 @@
   + Người dùng có thể tùy ý đặt package bổ sung bằng cách chỉnh sửa trong file **snort-install.sh**
   
 Nếu thấy màn hình terminal như này, nghĩa là quá trình cài đặt hoàn tất
-  ![Screenshot from 2020-08-24 20-46-42](https://user-images.githubusercontent.com/32956424/91057676-ba445000-e651-11ea-9680-fa966dfeed9f.png)
+![Screenshot from 2020-08-24 21-58-58](https://user-images.githubusercontent.com/32956424/91060359-0d6bd200-e655-11ea-8f44-dd4636c4dd30.png)
+
