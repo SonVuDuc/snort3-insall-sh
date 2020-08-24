@@ -1,9 +1,8 @@
 #!/bin/bash
 
-#Install requirement packages
+#Install the Snort 3 prerequisites
 
 sudo apt-get update && sudo apt-get dist-upgrade -y
-sudo dpkg-reconfigure tzdata
 mkdir ~/snort_src
 cd ~/snort_src
 
